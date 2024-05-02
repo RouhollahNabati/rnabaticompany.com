@@ -1,0 +1,2 @@
+salary is 50000
+salary was 30000
