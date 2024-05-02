@@ -1,2 +1,3 @@
 salary is 50000
 salary was 30000
+salary 20.000 R
